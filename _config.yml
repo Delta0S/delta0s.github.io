@@ -12,7 +12,7 @@
 # Name of website
 title: StationPlayOne
 # Your name to show in the footer
-author: Some Person
+author: FreehawkX
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -23,7 +23,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://delta0s.github.io/"
 
 ################
 # --- Logo --- #
@@ -51,12 +51,12 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+# whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
